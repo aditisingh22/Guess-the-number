@@ -1,8 +1,4 @@
-#Guess the number
-# Based on a variable already present in code,user needs to guess the number,with fixed number of attempts
-# Condition:
-# If user inputs number greater than n(suppose the number),code prompts to lessen the guess and
-#If user inputs number less than n(suppose the number),code prompts to take a larger number guess
+
 print("WELCOME TO GUESS THE NUMBER")
 print("="*27)
 n=15
